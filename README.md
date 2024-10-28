@@ -1,7 +1,7 @@
 
 # Google Workspace Mailer
 
-Send emails from a Google Workspace email address.  
+Send emails from a Google Workspace email address, using SMTP.  
 
 This functionality requires that "Less secure apps" are enabled for each Google Workspace account, which is not recommended for a production environment. Additionally, the "Less secure apps" feature is [being phased out for Google Workspace accounts in 2024](https://support.google.com/a/answer/14114704).  
 
