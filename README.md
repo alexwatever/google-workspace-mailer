@@ -3,7 +3,9 @@
 
 Send emails from a Google Workspace email address, using SMTP.  
 
-This functionality requires that "Less secure apps" are enabled for each Google Workspace account, which is not recommended for a production environment. Additionally, the "Less secure apps" feature is [being phased out for Google Workspace accounts in 2024](https://support.google.com/a/answer/14114704).  
+This functionality requires that "Less secure apps" are enabled for each Google Workspace account, which is not recommended for a production environment. Additionally, if the user is not an Admin, they will need to create an "Application Password".  
+
+Please note, the "Less secure apps" feature is [being phased out for Google Workspace accounts in 2024](https://support.google.com/a/answer/14114704).  
 
 ## Usage
 
